@@ -1,14 +1,8 @@
 # divaconf
 Conference application for Sangoma Diva cards
-  _____
- /_,-,_\
-  / @ \   [  s h a d y t e l  ]
- +-----+
-      In spirit of revenue
       
 This is a simple conferencing application for the Diva family of telephony cards that show up from time to time on eBay. While we've tested this with V-PRI, Server PRI and BRI cards, the API is abstracted enough from the telephony interface that it'll likely Just Work with the analog cards as well. While this has been tested extensively on Linux, it'll likely work as is in a Windows environment.
 
-=======
  Usage
 =======
 
@@ -28,7 +22,6 @@ Pretty simple, right? All of these are optional, by the way.
 
 Finally, there's the confhold directory. When there's only one call left on the bridge, it'll start playing randomized music on hold from this directory. We've included some sample tracks - just remove them if you'd like it to be silent. If you'd like to add your own, this is all headerless mu-law sampled at 8 khz. Just name the tracks in ascending order with a .pcm extension (0.pcm, 1.pcm, 2.pcm, etc), and the program will automatically mark it for playback when it starts.
 
-========
  To Do
 ========
 
