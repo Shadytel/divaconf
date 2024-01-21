@@ -26,3 +26,13 @@ Finally, there's the confhold directory. When there's only one call left on the 
 ========
 
 Let us know if you like this bridge! Most of the time, a phone conf is a pretty laid back environment, and depending on your choice in friends, no moderation should be necessary. There's some cases when muting/kicking/locking is just a fact of life though. For this, we plan to at some point make an elaborate curses-style UI that lets you do all these functions, and maybe more importantly, dial calls and pull them into the bridge. If this sort of addition would make your life easier, let us know to prioritize it.
+
+ Credits
+=========
+
+Ben Zimmermann and TRONICBOX made the songs we stuffed in this project. If you like it, you should go see more of their stuff:
+
+https://www.youtube.com/watch?v=WW--iJYcZNE
+
+https://www.youtube.com/watch?v=8uDQ0P9AWc8
+
